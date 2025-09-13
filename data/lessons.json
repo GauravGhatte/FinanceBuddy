@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "title": "Budgeting 101",
+    "description": "Master the fundamentals of personal budgeting and expense tracking",
+    "priceInINR": 0,
+    "content": "# Budgeting 101: Your Foundation to Financial Success\n\n## What is Budgeting?\n\nBudgeting is the process of creating a plan for your money. It helps you understand where your money goes and ensures you have enough for the things you need and want.\n\n## The 50/30/20 Rule\n\n- **50% Needs**: Essential expenses like rent, groceries, utilities\n- **30% Wants**: Entertainment, dining out, hobbies\n- **20% Savings**: Emergency fund, investments, debt repayment\n\n## Steps to Create Your Budget\n\n1. **Track Your Income**: List all sources of money coming in\n2. **List Your Expenses**: Fixed costs (rent, insurance) and variable costs (food, entertainment)\n3. **Categorize Spending**: Separate needs from wants\n4. **Set Realistic Goals**: Start small and build habits\n5. **Review Regularly**: Adjust as your situation changes\n\n## Common Budgeting Mistakes\n\n- Being too restrictive\n- Not accounting for irregular expenses\n- Forgetting to budget for fun\n- Not reviewing and adjusting regularly\n\n## Tools for Success\n\n- Mobile apps for expense tracking\n- Automatic savings transfers\n- Regular budget reviews\n- Emergency fund building",
+    "resources": [
+      {
+        "title": "RBI Financial Literacy Guide",
+        "url": "https://www.rbi.org.in/financialliteracy/"
+      },
+      {
+        "title": "Investopedia Budgeting Basics",
+        "url": "https://www.investopedia.com/terms/b/budget.asp"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Saving & Investing Basics",
+    "description": "Learn the fundamentals of saving money and making your first investments",
+    "priceInINR": 99,
+    "content": "# Saving & Investing: Building Your Financial Future\n\n## The Power of Compound Interest\n\nCompound interest is earning interest on your interest. Starting early gives your money more time to grow exponentially.\n\n## Emergency Fund First\n\nBefore investing, build an emergency fund covering 6-12 months of expenses:\n- Keep it in a high-yield savings account\n- Easily accessible for true emergencies\n- Separate from your investment accounts\n\n## Investment Basics in India\n\n### Popular Investment Options\n\n1. **Fixed Deposits**: Safe but low returns (3-7% annually)\n2. **Mutual Funds**: Professional management, diversification\n3. **Stocks**: Higher potential returns, higher risk\n4. **PPF**: Tax-saving with 15-year lock-in\n5. **ELSS**: Tax-saving mutual funds with 3-year lock-in\n\n### SIP (Systematic Investment Plan)\n\n- Invest fixed amount monthly\n- Rupee cost averaging benefits\n- Builds discipline\n- Minimum ₹500 per month in most funds\n\n## Risk vs Return\n\n- Higher potential returns come with higher risk\n- Diversification reduces risk\n- Time horizon affects risk tolerance\n- Never invest money you need within 3-5 years\n\n## Getting Started\n\n1. Complete KYC documentation\n2. Choose between direct and regular plans\n3. Start with index funds or balanced funds\n4. Gradually increase investment amounts\n5. Review portfolio annually",
+    "resources": [
+      {
+        "title": "SEBI Investor Education",
+        "url": "https://investor.sebi.gov.in/"
+      },
+      {
+        "title": "NSE Academy",
+        "url": "https://www.nseindia.com/education"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Credit & Loans",
+    "description": "Understanding credit scores, loans, and managing debt responsibly",
+    "priceInINR": 199,
+    "content": "# Credit & Loans: Managing Debt Wisely\n\n## Understanding Credit Scores\n\nYour credit score (300-900) determines loan eligibility and interest rates:\n\n- **750+**: Excellent - Best rates and terms\n- **700-749**: Good - Favorable terms\n- **650-699**: Fair - Standard terms\n- **600-649**: Poor - Limited options\n- **Below 600**: Very Poor - Difficulty getting loans\n\n## Factors Affecting Credit Score\n\n1. **Payment History (35%)**: Never miss EMI payments\n2. **Credit Utilization (30%)**: Keep below 30% of credit limit\n3. **Length of Credit History (15%)**: Older accounts help\n4. **Types of Credit (10%)**: Mix of cards and loans\n5. **New Credit (10%)**: Don't apply for multiple loans quickly\n\n## Types of Loans in India\n\n### Secured Loans\n- **Home Loan**: 6.5-9% interest, up to 30 years\n- **Car Loan**: 7-12% interest, up to 7 years\n- **Loan Against Property**: 8-12% interest\n\n### Unsecured Loans\n- **Personal Loan**: 10-24% interest, 1-5 years\n- **Credit Cards**: 24-48% annual interest\n- **Education Loan**: 8-15% interest\n\n## Smart Borrowing Tips\n\n1. **Compare Interest Rates**: Shop around different lenders\n2. **Check Processing Fees**: Hidden costs add up\n3. **Pre-payment Options**: Choose loans allowing early closure\n4. **EMI Planning**: Keep total EMIs under 40% of income\n5. **Read Fine Print**: Understand all terms and conditions\n\n## Debt Management Strategies\n\n### Debt Snowball Method\n- Pay minimums on all debts\n- Put extra money toward smallest debt\n- Move to next smallest after paying off first\n\n### Debt Avalanche Method\n- Pay minimums on all debts\n- Put extra money toward highest interest debt\n- Mathematically optimal but requires discipline\n\n## Building Good Credit\n\n- Pay all bills on time\n- Keep old credit cards active\n- Don't max out credit limits\n- Check credit report annually\n- Report errors immediately",
+    "resources": [
+      {
+        "title": "CIBIL Credit Information",
+        "url": "https://www.cibil.com/"
+      },
+      {
+        "title": "Investopedia Credit Guide",
+        "url": "https://www.investopedia.com/terms/c/credit_score.asp"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Taxes Made Simple",
+    "description": "Navigate Indian tax system, save money legally, and file returns easily",
+    "priceInINR": 149,
+    "content": "# Taxes Made Simple: Your Complete Guide\n\n## Income Tax Slabs (New Tax Regime FY 2024-25)\n\n- **₹0 - ₹3,00,000**: 0%\n- **₹3,00,001 - ₹7,00,000**: 5%\n- **₹7,00,001 - ₹10,00,000**: 10%\n- **₹10,00,001 - ₹12,00,000**: 15%\n- **₹12,00,001 - ₹15,00,000**: 20%\n- **Above ₹15,00,000**: 30%\n\n## Tax-Saving Investments (Old Regime)\n\n### Section 80C (Up to ₹1.5 Lakh)\n- **PPF**: 15-year lock-in, tax-free returns\n- **ELSS**: 3-year lock-in, market-linked returns\n- **Home Loan Principal**: Reduces taxable income\n- **Life Insurance Premium**: Traditional and ULIPs\n- **NSC**: 5-year lock-in, fixed returns\n\n### Other Deductions\n- **80D**: Health insurance premiums\n- **80E**: Education loan interest\n- **80G**: Charitable donations\n- **80TTA**: Savings account interest\n\n## New vs Old Tax Regime\n\n### New Regime Benefits\n- Lower tax rates\n- No need to show investments\n- Simpler calculations\n\n### Old Regime Benefits\n- Multiple deductions available\n- Better for high investors\n- Established tax planning strategies\n\n## ITR Forms Guide\n\n- **ITR-1**: Salary income up to ₹50 lakh\n- **ITR-2**: Multiple sources, no business income\n- **ITR-3**: Business/profession income\n- **ITR-4**: Presumptive business income\n\n## Tax Planning Calendar\n\n### April-March (Financial Year)\n- Start tax-saving investments early\n- Maintain proper records\n- Plan major purchases for tax benefits\n\n### March End\n- Last-minute tax-saving investments\n- Finalize tax-saving FDs\n- Donate to approved charities\n\n### July 31 (Due Date)\n- File ITR online\n- Verify within 120 days\n- Keep acknowledgment safe\n\n## Common Tax Mistakes\n\n1. **Last-minute investments**: Rush decisions often suboptimal\n2. **Not maintaining records**: Missing deduction opportunities\n3. **Ignoring TDS certificates**: Claim all deductions\n4. **Filing after deadline**: Attracts penalties\n5. **Not verifying ITR**: Return considered invalid\n\n## Digital Tools\n\n- Income Tax e-filing portal\n- Mobile apps for tax calculation\n- Digital document storage\n- Online tax advisors",
+    "resources": [
+      {
+        "title": "Income Tax Department",
+        "url": "https://www.incometax.gov.in/"
+      },
+      {
+        "title": "ClearTax Guide",
+        "url": "https://cleartax.in/s/income-tax-calculator"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Digital Payments & UPI",
+    "description": "Master digital payments, UPI, and stay safe in the digital economy",
+    "priceInINR": 0,
+    "content": "# Digital Payments & UPI: The Future of Money\n\n## What is UPI?\n\nUnified Payments Interface (UPI) is India's instant payment system that allows 24/7 money transfers between bank accounts.\n\n### Key Features\n- Instant bank-to-bank transfers\n- No charges for P2P transactions\n- Works on holidays and weekends\n- Single mobile app for multiple banks\n- QR code payments for merchants\n\n## Popular UPI Apps\n\n1. **Google Pay**: Simple interface, scratch cards\n2. **PhonePe**: Recharge, bill payments, investments\n3. **Paytm**: Comprehensive payment ecosystem\n4. **BHIM**: Government's official UPI app\n5. **Amazon Pay**: Integrated with Amazon shopping\n\n## Setting Up UPI\n\n1. Download UPI app from official app store\n2. Verify mobile number (linked to bank)\n3. Set 4-6 digit UPI PIN\n4. Create UPI ID (yourname@paytm)\n5. Link bank accounts\n6. Start transacting!\n\n## UPI Transaction Limits\n\n- **Per transaction**: ₹1 lakh\n- **Per day**: ₹1 lakh (may vary by bank)\n- **Merchant payments**: Up to ₹2 lakh\n- **No minimum limit**: Pay as low as ₹1\n\n## Digital Wallet vs UPI\n\n### Digital Wallets\n- Store money in wallet\n- Need to add money regularly\n- Faster for small payments\n- Examples: Paytm Wallet, PhonePe Wallet\n\n### UPI\n- Direct bank account access\n- No need to add money\n- Real-time bank transfers\n- Better for larger amounts\n\n## Safety Tips for Digital Payments\n\n### Do's\n- Use official apps from app stores\n- Enable screen lock and app lock\n- Verify merchant details before paying\n- Check bank statements regularly\n- Keep UPI PIN secret\n\n### Don'ts\n- Never share UPI PIN with anyone\n- Don't click suspicious payment links\n- Avoid public WiFi for transactions\n- Don't install apps from unknown sources\n- Never give remote access to phone\n\n## Fraud Prevention\n\n### Common Scams\n- **Fake customer care calls**: Asking for PIN/OTP\n- **Phishing links**: Fake payment pages\n- **Wrong number transfers**: Refund scams\n- **QR code tampering**: Redirecting payments\n\n### If You're Scammed\n1. Report to bank immediately\n2. File police complaint\n3. Report to National Cyber Crime Portal\n4. Block affected cards/accounts\n5. Change all PINs and passwords\n\n## Future of Digital Payments\n\n- **Central Bank Digital Currency (CBDC)**\n- **Offline payments** for poor connectivity\n- **Voice-based payments**\n- **IoT integration** with smart devices\n- **International UPI** expansion",
+    "resources": [
+      {
+        "title": "NPCI UPI Information",
+        "url": "https://www.npci.org.in/what-we-do/upi"
+      },
+      {
+        "title": "RBI Digital Payments",
+        "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=51234"
+      }
+    ]
+  }
+]
